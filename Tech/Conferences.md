@@ -1,3 +1,9 @@
+09/18/2017
+- TechCrunch Disrupt SF
+     - Sep 18-20 / San Francisco
+     - TechCrunch Disrupt is the world’s leading authority in debuting revolutionary startups, introducing game-changing technologies and discussing what’s top of mind for the tech industry’s key innovators. Disrupt gathers the best and brightest entrepreneurs, investors, hackers, and tech fans for on-stage interviews, the Startup Battlefield competition, a 24-hour Hackathon, Startup Alley, Hardware Alley, and After Parties.
+     - URL: http://techcrunch.com/event-info/disrupt-sf-2017/
+
 06/13/2017
 - E3 Expo 2017 #game
      - Jun 13 – Jun 15 / Los Angeles Convention Center, CA
@@ -11,7 +17,6 @@
      - June 5-9 (unconfirmed) / San Francisco, California
      - Final information on Apple's WWDC usually isn't released until April but it's always held in San Francisco in June. The event is Apple’s biggest developer event so it attracts intense attention from the press, industry analysts, Apple customers, and MacOS and iOS developers.
      - URL: http://developer.apple.com/wwdc
-
      - Twitter: #WWDC17
 
 05/17/2017
@@ -19,7 +24,6 @@
      - May 17-19 / Shoreline Amphitheatre, Mountain View, California
      - Google I/O, first held in 2008, has become one of the most important developer conferences in the world. Like Apple’s WWDC, Google I/O isn’t strictly about mobile, but the event is heavily focused on the Android OS and its ecosystem. The conference also covers developer tools and APIs for other Google products, services, and platforms, including the enterprise Cloud Platform, consumer online services such as Google Play, products for publishers and advertisers, such as AdSense and Analytics, consumer devices such as the Cardboard virtual reality headset, and even some of the company’s “moonshot” projects.
      - URL: http://events.google.com/io
-
      - Twitter: @googledevs / #GoogleIO2017
 
 05/16/2017
@@ -27,14 +31,13 @@
      - May 16-18 / Santa Clara Convention Center, Santa Clara, California
      - Internet of Things World is the largest IoT event, with the largest span of vertical and horizontal themes covered, according to the event's organizers. They expect more than 13,000 attendees at the event, which will have more than 300 speakers and over 200 sponsors and exhibitors. New topics featured at this year's conference include machine learning and AI/VR/IoT in business and education. There'll also be an IoT Off the Grid area outside the convention center featuring interactive demos, connected cars, and IoT products of the future. In addition, some of the most innovative IoT tech around will be on display at Startup City, which will include more than 150 leading-edge companies.
      - URL: http://tmt.knect365.com/iot-world
-
      - Twitter: @Iotworldnews / #IoTW17
 
 05/15/2017
-- TechCrunch Disrupt
+- TechCrunch Disrupt NY
      - May 15-17 / New York, New York
      - Disrupt is the conference for anyone involved with or interested in startups, entrepreneurs, venture capital, and emerging technologies. It features hackathons, provocative panel discussions, and A-list speakers. Many established high-tech companies have used Disrupt as a springboard.
-     - URL: http://techcrunch.com/event-info/disrupt-ny-2017/ and techcrunch.com/event-info/disrupt-sf-2017/
+     - URL: https://techcrunch.com/event-info/disrupt-ny-2017/
      - Twitter: @TechCrunch / #tcdisrupt
 
 04/23/2017
@@ -42,6 +45,12 @@
   - April 23-24, 2017 / Half Moon Bay
   - The Forbes 2017 CIO Summit is focused on bringing together the world’s leading Chief Information Officers. This exclusive, invitation-only summit is the third CIO Summit and will gather the best-in-class global CIOs and CEOs of leading technology and venture capital companies to discuss valuable ideas and provide networking opportunities. The agenda focuses on the opportunities and challenges that are at the forefront of these executives’ minds and motivations. Topics of discussion will include artificial intelligence, security, revenue growth driven from CIO innovation efforts, leveraging the concept of CIO-led innovation labs and much more.
      - URL: http://www.forbesconferences.com/event/2017-forbes-cio-summit/
+
+04/18/2017
+- Facebook Developer Conference
+     - Apr 18 & 19 / Mcenery Convention Center, San Jose, CA
+     - Explore F8. This year's sessions feature a wide range of topics across the Facebook family of apps and services – with relevance to developers and businesses. With sessions and experiences featuring the latest products and innovations, there’s something for everyone. You’ll learn about new features, best practices and ways to make the world more open and connected.
+     - URL: https://www.fbf8.com/
 
 03/29/2017
 - Silicon Valley VR Expo (SVVR) 2017
@@ -74,7 +83,6 @@
      - February 27-March 2 / Barcelona, Spain
      - Described as a gathering for the entire mobile industry by its organizer, the MWC is owned by GSMA, an industry group made up of 800 mobile operators and 300 mobile ecosystem companies. It's a big conference: In 2016, the MWC in Barcelona, drew more than 100,000 attendees from 204 countries, and more than 2,200 exhibitors.
      - URL: http://mobileworldcongress.com
-
      - Twitter: @GSMA / #MWC17
 
 02/07/2017
@@ -84,7 +92,7 @@
      - URL: http://iotevolutionexpo.com
 
 01/05/2017
-CES (Consumer Electronics Show)
+- CES (Consumer Electronics Show)
      - Jan 5-8 / Las Vegas
      - The legendary and massive consumer electronics conference and expo covers a wide range of topics, some of which might be of direct or tangential interest to those involved with mobile and IoT, such as security, digital entertainment, e-commerce, gaming, robotics, storage, education technology, mobile apps, and networking.
      - URL: http://www.ces.tech
