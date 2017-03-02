@@ -1,9 +1,41 @@
 06/13/2017
-- E3 Expo 2017
+- E3 Expo 2017 #game
      - Jun 13 – Jun 15 / Los Angeles Convention Center, CA
      - E3 is the world’s premier trade show for computer, video and mobile games and related products. At E3, the video game industry’s top talent pack the Los Angeles Convention Center, connecting tens of thousands of the best, brightest, and most innovative professionals in the interactive entertainment industry.
      - For three exciting days, leading-edge companies, groundbreaking new technologies and never-before-seen products will be showcased. E3 connects you with both new and existing partners and provides unprecedented exposure to emerging markets. E3 is where new worlds of the interactive entertainment industry are inspired.
      - URL: https://www.e3expo.com/
+     - Twitter: @E3 / #E32017
+
+06/05/2017
+- Apple WWDC
+     - June 5-9 (unconfirmed) / San Francisco, California
+     - Final information on Apple's WWDC usually isn't released until April but it's always held in San Francisco in June. The event is Apple’s biggest developer event so it attracts intense attention from the press, industry analysts, Apple customers, and MacOS and iOS developers.
+     - URL: http://developer.apple.com/wwdc
+
+     - Twitter: #WWDC17
+
+05/17/2017
+- Google I/O
+     - May 17-19 / Shoreline Amphitheatre, Mountain View, California
+     - Google I/O, first held in 2008, has become one of the most important developer conferences in the world. Like Apple’s WWDC, Google I/O isn’t strictly about mobile, but the event is heavily focused on the Android OS and its ecosystem. The conference also covers developer tools and APIs for other Google products, services, and platforms, including the enterprise Cloud Platform, consumer online services such as Google Play, products for publishers and advertisers, such as AdSense and Analytics, consumer devices such as the Cardboard virtual reality headset, and even some of the company’s “moonshot” projects.
+     - URL: http://events.google.com/io
+
+     - Twitter: @googledevs / #GoogleIO2017
+
+05/16/2017
+- Internet of Things World
+     - May 16-18 / Santa Clara Convention Center, Santa Clara, California
+     - Internet of Things World is the largest IoT event, with the largest span of vertical and horizontal themes covered, according to the event's organizers. They expect more than 13,000 attendees at the event, which will have more than 300 speakers and over 200 sponsors and exhibitors. New topics featured at this year's conference include machine learning and AI/VR/IoT in business and education. There'll also be an IoT Off the Grid area outside the convention center featuring interactive demos, connected cars, and IoT products of the future. In addition, some of the most innovative IoT tech around will be on display at Startup City, which will include more than 150 leading-edge companies.
+     - URL: http://tmt.knect365.com/iot-world
+
+     - Twitter: @Iotworldnews / #IoTW17
+
+05/15/2017
+- TechCrunch Disrupt
+     - May 15-17 / New York, New York
+     - Disrupt is the conference for anyone involved with or interested in startups, entrepreneurs, venture capital, and emerging technologies. It features hackathons, provocative panel discussions, and A-list speakers. Many established high-tech companies have used Disrupt as a springboard.
+     - URL: http://techcrunch.com/event-info/disrupt-ny-2017/ and techcrunch.com/event-info/disrupt-sf-2017/
+     - Twitter: @TechCrunch / #tcdisrupt
 
 04/23/2017
 - Forbes CIO Summit 2017
@@ -23,7 +55,7 @@
   - March 10-14, 2017 / Austin, Texas
   - This annual conference is an ideal way to score some face-time with industry leaders in cutting-edge technologies and digital creativity. For five days, conference goers will have hands-on training through interactive technology surrounding new websites, video games, startups and design.
      - URL: https://www.sxsw.com
-
+     - Twitter: @sxsw / #SXSW2017
 
 03/08/2017
 - Google Cloud Next '17
@@ -36,3 +68,23 @@
   - March 1 - 3, 2017 / San Francisco, CA
   - This three-day event is focused around developers and engineers who build apps and websites. Mobile+Web DevCon 2017 brings the latest best practices for developing Android and iOS apps while providing a forum to network, connect and collaborate with other mobile app and web developers across the industry who know and understand the latest techniques. Here you’ll learn how to design and develop apps that are faster and more scalable across multi-platforms while developing your skills and exploring new development frameworks and tools while enjoying meaningful conversations in an intimate conference atmosphere.
      - URL: http://mobilewebdevconference.com/san-francisco-2017/
+
+02/27/2017
+- Mobile World Congress MWC #mobile
+     - February 27-March 2 / Barcelona, Spain
+     - Described as a gathering for the entire mobile industry by its organizer, the MWC is owned by GSMA, an industry group made up of 800 mobile operators and 300 mobile ecosystem companies. It's a big conference: In 2016, the MWC in Barcelona, drew more than 100,000 attendees from 204 countries, and more than 2,200 exhibitors.
+     - URL: http://mobileworldcongress.com
+
+     - Twitter: @GSMA / #MWC17
+
+02/07/2017
+- IoT Evolution Expo
+     - February 7-10 / Fort Lauderdale Convention Center, Fort Lauderdale, Florida
+     - IoT Evolution Expo focuses on how IoT can drive business transformation in all industries through improved operational efficiencies, revenue opportunities, and problem solutions. It features track sessions, an exhibit floor, case studies, special events, networking opportunities, and other events.
+     - URL: http://iotevolutionexpo.com
+
+01/05/2017
+CES (Consumer Electronics Show)
+     - Jan 5-8 / Las Vegas
+     - The legendary and massive consumer electronics conference and expo covers a wide range of topics, some of which might be of direct or tangential interest to those involved with mobile and IoT, such as security, digital entertainment, e-commerce, gaming, robotics, storage, education technology, mobile apps, and networking.
+     - URL: http://www.ces.tech
