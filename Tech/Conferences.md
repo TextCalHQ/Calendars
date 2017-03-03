@@ -15,7 +15,6 @@
      - First held in 2012, Fluent aims to cover the “full scope of the Web platform,” according to its organizers. It focuses on practical training in JavaScript, HTML5, CSS, and associated technologies and frameworks, including WebGL, CSS3, mobile APIs, Node.js, AngularJS, and ECMAScript 6.
      - Keynote speeches at the conference last year touched on subjects such as making mobile apps as powerful as desktop apps, an introduction to the Seif Project to transition the Web into an application delivery system, the two most important principles to being a better designer,  and using advanced browser features to build robust apps.
      - URL: http://conferences.oreilly.com/fluent/fl-ca
-
      - Twitter: @fluentconf / @OReillyMedia / #FluentConf
 
 06/13/2017
@@ -74,12 +73,32 @@
      - Explore F8. This year's sessions feature a wide range of topics across the Facebook family of apps and services – with relevance to developers and businesses. With sessions and experiences featuring the latest products and innovations, there’s something for everyone. You’ll learn about new features, best practices and ways to make the world more open and connected.
      - URL: https://www.fbf8.com/
 
+04/05/2017
+- Angular Conference ng-conf #web
+     - Apr 5-7 / Salt Lake City, UT
+     - ng-conf is the world’s original Angular Conference.
+     - URL: https://www.ng-conf.org/
+
+04/04/2017
+- Smashing Conference
+     - Apr 4-5 / San Francisco, CA
+     - Meet SmashingConf San Francisco 2017, featuring front-end ingredients, UX recipes and nothing but practical beats from the hidden corners of the web. Only practical, real-life techniques and recipes you can learn from.
+     - URL: https://smashingconf.com/
+     - Twitter: #smashingconf
+
 03/29/2017
 - Silicon Valley VR Expo (SVVR) 2017
      - Mar 29 – Mar 31 / San Jose Convention Center, CA
      - Now in its fourth year, the annual SVVR Conference & Expo is the longest-running and highest profile event in the VR industry. Each year the SVVR expo floor brings together more VR companies than any other event in the world. Our 2016 expo floor featured over 150 exhibiting VR companies. Our conference features some of the highest-quality talks, workshops, and panels from the top thought-leaders, experts, visionaries, and industry luminaries.
      - SVVR is a community-based industry organization dedicated to accelerating the growth of a healthy, diverse VR ecosystem through events, education, and services. Founded in 2013 as the world’s first VR meetup group, SVVR has grown into the largest VR meetup community, hosting monthly events in the heart of Silicon Valley and beyond. SVVR events have become a favorite platform for launching VR related products, services, and initiatives.
      - URL: http://svvr.com/
+
+03/13/2017
+- React Conf 2017 #web
+     - March 13th and 14th / Marriott Santa Clara, California
+     - The conference will be livestreamed both days, and the talks will also be recorded. We'll share livestream information right here the morning of the event and will post videos of each of the talks after the conference.
+     - There are a number of exciting React community events going on in the weeks leading up to and following React Conf including Reactathon. Be sure to check them out!
+     - URL: http://conf.reactjs.org/
 
 03/10/2017
 - SXSW
@@ -99,6 +118,7 @@
   - March 1 - 3, 2017 / San Francisco, CA
   - This three-day event is focused around developers and engineers who build apps and websites. Mobile+Web DevCon 2017 brings the latest best practices for developing Android and iOS apps while providing a forum to network, connect and collaborate with other mobile app and web developers across the industry who know and understand the latest techniques. Here you’ll learn how to design and develop apps that are faster and more scalable across multi-platforms while developing your skills and exploring new development frameworks and tools while enjoying meaningful conversations in an intimate conference atmosphere.
      - URL: http://mobilewebdevconference.com/san-francisco-2017/
+     - Twitter: #MWDCON
 
 02/27/2017
 - Mobile World Congress MWC #mobile
