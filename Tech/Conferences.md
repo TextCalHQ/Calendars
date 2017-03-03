@@ -4,6 +4,20 @@
      - TechCrunch Disrupt is the world’s leading authority in debuting revolutionary startups, introducing game-changing technologies and discussing what’s top of mind for the tech industry’s key innovators. Disrupt gathers the best and brightest entrepreneurs, investors, hackers, and tech fans for on-stage interviews, the Startup Battlefield competition, a 24-hour Hackathon, Startup Alley, Hardware Alley, and After Parties.
      - URL: http://techcrunch.com/event-info/disrupt-sf-2017/
 
+09/07/2017
+- Apple iPhone Event (TBD) #mobile
+     - Sep 07 (TBD) / Cupertino, CA (TBD)
+     - Apple Special Conference.
+
+06/19/2017
+- Fluent #web
+     - June 19-20, training; June 20-22, tutorials and conferences / San Jose, California
+     - First held in 2012, Fluent aims to cover the “full scope of the Web platform,” according to its organizers. It focuses on practical training in JavaScript, HTML5, CSS, and associated technologies and frameworks, including WebGL, CSS3, mobile APIs, Node.js, AngularJS, and ECMAScript 6.
+     - Keynote speeches at the conference last year touched on subjects such as making mobile apps as powerful as desktop apps, an introduction to the Seif Project to transition the Web into an application delivery system, the two most important principles to being a better designer,  and using advanced browser features to build robust apps.
+     - URL: http://conferences.oreilly.com/fluent/fl-ca
+
+     - Twitter: @fluentconf / @OReillyMedia / #FluentConf
+
 06/13/2017
 - E3 Expo 2017 #game
      - Jun 13 – Jun 15 / Los Angeles Convention Center, CA
@@ -27,7 +41,7 @@
      - Twitter: @googledevs / #GoogleIO2017
 
 05/16/2017
-- Internet of Things World
+- Internet of Things World #iot
      - May 16-18 / Santa Clara Convention Center, Santa Clara, California
      - Internet of Things World is the largest IoT event, with the largest span of vertical and horizontal themes covered, according to the event's organizers. They expect more than 13,000 attendees at the event, which will have more than 300 speakers and over 200 sponsors and exhibitors. New topics featured at this year's conference include machine learning and AI/VR/IoT in business and education. There'll also be an IoT Off the Grid area outside the convention center featuring interactive demos, connected cars, and IoT products of the future. In addition, some of the most innovative IoT tech around will be on display at Startup City, which will include more than 150 leading-edge companies.
      - URL: http://tmt.knect365.com/iot-world
@@ -39,6 +53,14 @@
      - Disrupt is the conference for anyone involved with or interested in startups, entrepreneurs, venture capital, and emerging technologies. It features hackathons, provocative panel discussions, and A-list speakers. Many established high-tech companies have used Disrupt as a springboard.
      - URL: https://techcrunch.com/event-info/disrupt-ny-2017/
      - Twitter: @TechCrunch / #tcdisrupt
+
+04/26/2017
+- IoT Developers Conference #iot
+     - April 26-27 / Santa Clara Convention Center, Santa Clara, California
+     - Focused on solving the technical and business challenges of IoT, the Internet of Things Developers Conference features an exhibit floor, in-depth technical sessions, tutorials, business strategy, and hands-on demos.
+     - The conference organizers say the 2017 conference will target technologies from the ultra-low power microcontrollers to the multicore-enabled aggregation hubs to the software and security infrastructure required for monitoring and management of the enormous bundles of data.
+     - URL: http://iot-devcon.com
+     - Twitter: @iotdevcon / #iotdevcon
 
 04/23/2017
 - Forbes CIO Summit 2017
@@ -86,10 +108,11 @@
      - Twitter: @GSMA / #MWC17
 
 02/07/2017
-- IoT Evolution Expo
+- IoT Evolution Expo #iot
      - February 7-10 / Fort Lauderdale Convention Center, Fort Lauderdale, Florida
      - IoT Evolution Expo focuses on how IoT can drive business transformation in all industries through improved operational efficiencies, revenue opportunities, and problem solutions. It features track sessions, an exhibit floor, case studies, special events, networking opportunities, and other events.
      - URL: http://iotevolutionexpo.com
+     - Twitter: @IoTEvolution / #IoTEvolution
 
 01/05/2017
 - CES (Consumer Electronics Show)
