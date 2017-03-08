@@ -1,9 +1,8 @@
 11/06/2017
-- Web Summit
+- Web Summit #web
      - Nov 6-9 / Lisbon
      Web Summit has become “Europe’s largest and most important technology marketplace”, a crossroads for the world’s largest buyers and sellers of technology, alongside many of the world’s most disruptive emerging technology companies. It’s not just Europe’s largest companies that come to Web Summit, but over 7,000 CEOs from companies of all sizes and industries learning about what new software and hardware can transform their businesses. They are joined by leading academics, those at the forefront of tech and business worlds, cultural icons and influencers, and key global leaders to tackle the world’s most pressing issues.
      - URL: https://websummit.com/
-
      - Twitter: @websummit
 
 09/18/2017
@@ -74,7 +73,6 @@
      - APRIL 24–28, 2017 / VANCOUVER, BC, Canada
      - What does the future hold for you, for me, for us? In 2017, TED will balance a hard look at the seismic shifts that are altering the way the world works with insights into how we can foster personal learning, growth and empowerment. The result: You'll leave inspired and prepared for the change that's ahead.
      - URL: https://ted2017.ted.com/
-
      - Twitter: @tedtalks #TED2017
 
 04/23/2017
@@ -96,25 +94,32 @@
     - URL: https://www.ng-conf.org/
 
 04/04/2017
-- Smashing Conference
+- Smashing Conference #web
     - Apr 4-5 / San Francisco, CA
     - Meet SmashingConf San Francisco 2017, featuring front-end ingredients, UX recipes and nothing but practical beats from the hidden corners of the web. Only practical, real-life techniques and recipes you can learn from.
     - URL: https://smashingconf.com/
     - Twitter: #smashingconf
 
 03/29/2017
-- Silicon Valley VR Expo (SVVR) 2017
+- Silicon Valley VR Expo (SVVR) 2017 #vr
     - Mar 29 – Mar 31 / San Jose Convention Center, CA
     - Now in its fourth year, the annual SVVR Conference & Expo is the longest-running and highest profile event in the VR industry. Each year the SVVR expo floor brings together more VR companies than any other event in the world. Our 2016 expo floor featured over 150 exhibiting VR companies. Our conference features some of the highest-quality talks, workshops, and panels from the top thought-leaders, experts, visionaries, and industry luminaries.
     - SVVR is a community-based industry organization dedicated to accelerating the growth of a healthy, diverse VR ecosystem through events, education, and services. Founded in 2013 as the world’s first VR meetup group, SVVR has grown into the largest VR meetup community, hosting monthly events in the heart of Silicon Valley and beyond. SVVR events have become a favorite platform for launching VR related products, services, and initiatives.
     - URL: http://svvr.com/
+
+- Samsung Galaxy Unpacked NY
+     - Mar 29 / David Geffen Hall, Lincoln Center, New York
+     - In the midst of their Mobile World Congress keynote, the company sent out invites to its Unpacked event, which we’re learning will be held March 29 in NYC. The event will be held at 11am EST at the Lincoln Center in NYC. The invitation for the event came with the tagline, “Unbox your phone” along with an image of an outline of a box with rounded corners, presumably the shape of the new Galaxy S8 which is expected to be announced.
+     - URL: http://www.samsung.com/global/galaxy/events/unpacked/
+
+
+     - Twitter: @samsungmobileus #GalaxyS8
 
 03/20/2017
 - Cebit
      - Mar 20-24 / Hannover Congress Centrum in Hannover, Germany
      - Cebit Hannover is a 5-day event being held from 20th March to the 24th March 2017 at the Hannover Congress Centrum in Hannover, Germany. Boasting a show and a conference program for professionals, CeBIT defines the latest trends, presents talks by high-calibre speakers and forward-looking panel discussions, and showcases product innovations from all over the world.The digitization of the economy continues to gather pace. CeBIT spans the entire range of topics in digitization, highlighting the challenges. The trade fair focuses on the IT innovations that are revolutionizing the business world and puts the spotlight on todayâs most promising startups. From cloud technology and IT security to big data and the Internet of Things, CeBIT covers all the most current and relevant market trends in the industry. Startup or big player â which is more flexible, more agile, better? Over 400 startups have come to the CeBIT show to link up with big multinational corporations.
      - URL: http://www.cebit.de/en/
-
      - Twitter: @cebit #CeBIT17
 
 03/13/2017
@@ -138,7 +143,7 @@
     - URL: https://cloudnext.withgoogle.com/
 
 03/01/2017
-- Mobile + Web DevCon 2017
+- Mobile + Web DevCon 2017 #web #mobile
     - March 1 - 3, 2017 / San Francisco, CA
     - This three-day event is focused around developers and engineers who build apps and websites. Mobile+Web DevCon 2017 brings the latest best practices for developing Android and iOS apps while providing a forum to network, connect and collaborate with other mobile app and web developers across the industry who know and understand the latest techniques. Here you’ll learn how to design and develop apps that are faster and more scalable across multi-platforms while developing your skills and exploring new development frameworks and tools while enjoying meaningful conversations in an intimate conference atmosphere.
     - URL: http://mobilewebdevconference.com/san-francisco-2017/
