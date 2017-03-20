@@ -107,16 +107,14 @@
     - SVVR is a community-based industry organization dedicated to accelerating the growth of a healthy, diverse VR ecosystem through events, education, and services. Founded in 2013 as the world’s first VR meetup group, SVVR has grown into the largest VR meetup community, hosting monthly events in the heart of Silicon Valley and beyond. SVVR events have become a favorite platform for launching VR related products, services, and initiatives.
     - URL: http://svvr.com/
 
-- Samsung Galaxy Unpacked NY
+- Samsung Galaxy Unpacked NY #mobile
      - Mar 29 / David Geffen Hall, Lincoln Center, New York
      - In the midst of their Mobile World Congress keynote, the company sent out invites to its Unpacked event, which we’re learning will be held March 29 in NYC. The event will be held at 11am EST at the Lincoln Center in NYC. The invitation for the event came with the tagline, “Unbox your phone” along with an image of an outline of a box with rounded corners, presumably the shape of the new Galaxy S8 which is expected to be announced.
      - URL: http://www.samsung.com/global/galaxy/events/unpacked/
-
-
      - Twitter: @samsungmobileus #GalaxyS8
 
 03/20/2017
-- Cebit
+- CeBIT
      - Mar 20-24 / Hannover Congress Centrum in Hannover, Germany
      - Cebit Hannover is a 5-day event being held from 20th March to the 24th March 2017 at the Hannover Congress Centrum in Hannover, Germany. Boasting a show and a conference program for professionals, CeBIT defines the latest trends, presents talks by high-calibre speakers and forward-looking panel discussions, and showcases product innovations from all over the world.The digitization of the economy continues to gather pace. CeBIT spans the entire range of topics in digitization, highlighting the challenges. The trade fair focuses on the IT innovations that are revolutionizing the business world and puts the spotlight on todayâs most promising startups. From cloud technology and IT security to big data and the Internet of Things, CeBIT covers all the most current and relevant market trends in the industry. Startup or big player â which is more flexible, more agile, better? Over 400 startups have come to the CeBIT show to link up with big multinational corporations.
      - URL: http://www.cebit.de/en/
@@ -155,6 +153,14 @@
     - Described as a gathering for the entire mobile industry by its organizer, the MWC is owned by GSMA, an industry group made up of 800 mobile operators and 300 mobile ecosystem companies. It's a big conference: In 2016, the MWC in Barcelona, drew more than 100,000 attendees from 204 countries, and more than 2,200 exhibitors.
     - URL: http://mobileworldcongress.com
     - Twitter: @GSMA / #MWC17
+
+02/21/2017
+- D.I.C.E. Summit #game
+    - Feb 21-23 / Las Vegas, Nevada
+    - D.I.C.E. (Design, Innovate, Communicate, Entertain) Summit 2017 is an exclusive high-level conference, gathering the brightest and most creative minds dedicated to exploring approaches to the creative process and artistic expression as they uniquely apply to the development of interactive entertainment.
+     - URL: http://www.dicesummit.org/events/2017_agenda.asp
+
+     - Twitter: #DICE2017
 
 02/07/2017
 - IoT Evolution Expo #iot
